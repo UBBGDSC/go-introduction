@@ -1,0 +1,6 @@
+[book]
+authors = ["shynxe"]
+language = "en"
+multilingual = false
+src = "src"
+title = "go-introduction"
