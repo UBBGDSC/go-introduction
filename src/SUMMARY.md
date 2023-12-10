@@ -17,10 +17,10 @@
 ---
 
 # What's different?
+- [Context](./advanced/context.md)
 - [Methods and interfaces](./advanced/methods-and-interfaces.md)
 - [Concurrency](./advanced/concurrency.md)
 - [Error handling](./advanced/error-handling.md)
-- [Testing](./advanced/testing.md)
 
 ---
 
