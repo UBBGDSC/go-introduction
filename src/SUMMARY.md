@@ -20,8 +20,10 @@
 - [Context](./advanced/context.md)
 - [Methods and interfaces](./advanced/methods-and-interfaces.md)
 - [Concurrency](./advanced/concurrency.md)
-- [Error handling](./advanced/error-handling.md)
 
 ---
 
-[Quiz & Feedback](quiz.md)
+# Practice Time
+- [Ping Pong](./practice/ping-pong.md)
+- [Setup Wordle](./practice/setup-wordle.md)
+- [[Exercise] Start Guessing](./practice/start-guessing.md)
