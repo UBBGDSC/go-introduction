@@ -38,4 +38,4 @@ Your goal is to modify the final code from the previous step to automatically gu
 
 # Bonus Goal: Guess All Hard Words
 
-The hard words are randomly generated using other randomly generated WordlePreferences. Read from this channel and try to guess all the hard words as well, if you dare.
+The hard words are randomly generated using other randomly generated WordlePreferences. Read the hard word URLs from the channel `wordleInstance.HardWordChannel` and try to guess all the hard words as well, if you dare.
